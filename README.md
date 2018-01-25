@@ -12,3 +12,5 @@ This application can be used to test the usage of
 * custom resources
 
 Custom XSL stylesheets should be working in both Linux and Windows environments, while referencing custom resources has not been working in Windows environments. This has been resolved in above mentioned ticket.
+
+(The Darth Vader icon has been found at https://icon-icons.com/icon/darth-vader-star-wars/34501)
